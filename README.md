@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ElKuramaB3
 - 👀 I’m interested in informatic
 - 🌱 I’m currently learning hacking
-- 💞️ I’m looking to collaborate on police informatic
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on informatic police
+- 📫 How to reach me meta que es ser informatic police
 
 <!---
 ElKuramaB3/ElKuramaB3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
